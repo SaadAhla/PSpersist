@@ -1,5 +1,5 @@
 # PSpersist
-Dropping a powershell script at  %HOMEPATH%Documents\windowspowershell\ , that contains the implant's path , and whenever powershell process is created, the implant will executed too.
+Dropping a powershell script at  %HOMEPATH%\Documents\windowspowershell\ , that contains the implant's path , and whenever powershell process is created, the implant will executed too.
 
 ### DEMO
 
